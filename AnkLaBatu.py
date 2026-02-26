@@ -37,15 +37,15 @@ print(banner)
 # Menu rainbow
 menu = f"""
 {rainbow_text("┌────────────────────────────────────────────────┐")}
-{rainbow_text("│             CHỨC NĂNG DiSCORD(DEMO)              │")}
+{rainbow_text("│             CHỨC NĂNG DiSCORD(DEMO)       ")}
 {rainbow_text("├────────────────────────────────────────────────┤")}
 {rainbow_text("[7] TREO DIS ")}
 {rainbow_text("┌────────────────────────────────────────────────┐")}
-{rainbow_text("│             CHỨC NĂNG GMAIL              │")}
+{rainbow_text("│             CHỨC NĂNG GMAIL                   ")}
 {rainbow_text("├────────────────────────────────────────────────┤")}
 {rainbow_text("[8] MAIL ẢO ")}
 {rainbow_text("┌────────────────────────────────────────────────┐")}
-{rainbow_text("│             CHỨC NĂNG MESSENGER              │")}
+{rainbow_text("│             CHỨC NĂNG MESSENGER              ")}
 {rainbow_text("├────────────────────────────────────────────────┤")}
 {rainbow_text("[1] TREO NGÔN BẤT TỬ ")}
 {rainbow_text("[2] NHÂY MESS ")}
@@ -70,7 +70,7 @@ try:
         1: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/treongon_lite.py',
         2: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/nhayngonmess.py',
         3: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/nhaytagmess.py',
-        5: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/nhaypoll.py,
+        5: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/nhaypoll.py',
         6: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/treonen.py',
         4: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/listbox.py'
     }
