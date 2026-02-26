@@ -70,6 +70,8 @@ try:
         1: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/treongon_lite.py',
         2: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/nhayngonmess.py',
         3: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/nhaytagmess.py',
+        5: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/nhaypoll.py,
+        6: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/treonen.py',
         4: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/listbox.py'
     }
     
