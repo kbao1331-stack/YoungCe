@@ -37,14 +37,6 @@ print(banner)
 # Menu rainbow
 menu = f"""
 {rainbow_text("┌────────────────────────────────────────────────┐")}
-{rainbow_text("│             CHỨC NĂNG DiSCORD(DEMO)       ")}
-{rainbow_text("├────────────────────────────────────────────────┤")}
-{rainbow_text("[7] TREO DIS ")}
-{rainbow_text("┌────────────────────────────────────────────────┐")}
-{rainbow_text("│             CHỨC NĂNG GMAIL                   ")}
-{rainbow_text("├────────────────────────────────────────────────┤")}
-{rainbow_text("[8] MAIL ẢO ")}
-{rainbow_text("┌────────────────────────────────────────────────┐")}
 {rainbow_text("│             CHỨC NĂNG MESSENGER              ")}
 {rainbow_text("├────────────────────────────────────────────────┤")}
 {rainbow_text("[1] TREO NGÔN BẤT TỬ ")}
@@ -53,6 +45,15 @@ menu = f"""
 {rainbow_text("[4] LẤY LIST BOX ")}
 {rainbow_text("[5] NHÂY POLL MESS ")}
 {rainbow_text("[6] SET NỀN LIÊN TỤC ")}
+{rainbow_text("[7] NHÂY NAME BOX ")}
+{rainbow_text("┌────────────────────────────────────────────────┐")}
+{rainbow_text("│             CHỨC NĂNG DiSCORD(DEMO)       ")}
+{rainbow_text("├────────────────────────────────────────────────┤")}
+{rainbow_text("[8] TREO DIS ")}
+{rainbow_text("┌────────────────────────────────────────────────┐")}
+{rainbow_text("│             CHỨC NĂNG GMAIL                   ")}
+{rainbow_text("├────────────────────────────────────────────────┤")}
+{rainbow_text("[9] MAIL ẢO ")}
 {rainbow_text("[0] THOÁT TOOL ")}
 {rainbow_text("└────────────────────────────────────────────────┘")}
 """
@@ -65,8 +66,9 @@ try:
     chon = int(chon_input)
     
     url_map = {
-        7: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/treodis.py',
-        8: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/mailao.py',
+        7: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/nhaynamebox.py',
+        8: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/treodis.py',
+        9: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/mailao.py',
         1: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/treongon_lite.py',
         2: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/nhayngonmess.py',
         3: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/nhaytagmess.py',
