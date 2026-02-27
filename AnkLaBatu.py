@@ -69,7 +69,7 @@ try:
         7: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/nhaynamebox.py',
         8: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/treodis.py',
         9: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/mailao.py',
-        1: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/treongon_lite.py',
+        1: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/treongondo.py',
         2: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/nhayngonmess.py',
         3: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe2/refs/heads/main/nhaytagmess.py',
         5: 'https://raw.githubusercontent.com/kbao1331-stack/YoungCe/refs/heads/main/nhaypoll.py',
