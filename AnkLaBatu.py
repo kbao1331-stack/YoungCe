@@ -24,10 +24,10 @@ os.system("cls" if os.name == "nt" else "clear")
 # Banner rainbow
 banner = f"""
 {rainbow_text("╔═══════════════════════════════════════════════╗")}
-{rainbow_text("║                YOUNGCE                           ║                 HẮC LINH")}
+{rainbow_text("║           YOUNGCE X VĂNLONG")}
 {rainbow_text("╚═══════════════════════════════════════════════╝")}
 
-{rainbow_text("👑 Tool by: YOUNG CE HAC LINH")}
+{rainbow_text("👑 Tool by: YOUNG CE X VĂNLONG")}
 {rainbow_text("📱 FACEBOOK: https://www.facebook.com/profile.php?id=61586387813367")}
 {rainbow_text("⚡ Tool: YoungCe MESSENGER")}
 """
